@@ -1,5 +1,3 @@
-# task_management
-add your task,delete your task on the go
 # Task Management System
 
 This is a simple task management system implemented using HTML, CSS, and JavaScript. It allows users to add, view, and delete tasks directly in their web browser.
